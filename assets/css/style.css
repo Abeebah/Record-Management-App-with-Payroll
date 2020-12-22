@@ -1,0 +1,391 @@
+/*
+designed by Dexterity Logics Ltd
+*/
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.analytics{
+    padding-top: 8%;
+    float: right;
+}
+.analytic{
+    float: right;
+}
+.Aicon{
+    float: right;
+    margin-left: 12.38px
+}
+.amount{
+    background: transparent;
+    border-top: transparent !important;
+    border-left: transparent !important;
+    border-right: transparent !important;
+    border-bottom: 2px solid #acabab !important;
+    width: 500px;
+    height: 50px;
+}
+.bit{
+    padding-top: 17px;
+}
+.contain{
+    padding: 20px !important;
+    margin-top: 10% !important;
+    background-color: rgba(245, 156, 156, 0.164);
+    width: 500px;
+    /* height: 300px; */
+}
+.center{
+    text-align: center !important;
+}
+.clear{
+    clear: both;
+}
+.color{
+    background-color: rgba(245, 156, 156, 0.164) !important;
+    height: 300px;
+    padding: 30px;
+}
+
+.dropdown{
+    width: 732px;
+    font-size: 60px;
+    background: transparent;
+    border-top: transparent !important;
+    border-left: transparent !important;
+    border-right: transparent !important;
+    border: 2px solid #797777;
+    margin-top: 88px;
+    color: rgb(245, 11, 11);
+}
+.descriptionarea{
+    width: 100%;
+    font-size: 40px;
+    padding: 0px;
+    border-bottom: 2px solid #707070;
+    border-left: transparent;
+    background: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    margin-bottom: 27px;
+}
+.description{
+    color:#FF0000;
+    font-size: 22px;
+    margin-top: 83px;
+    margin-bottom: 99px;
+}
+.descriptionoption{
+    background-color: #FFF2F2;
+    font-size: 36px;
+    border: transparent;
+    width: 500px;
+    margin-bottom: 54px;
+    font-weight: bold;
+    
+}
+.entry{
+    font-size: 60px;
+    margin-top:88px;
+    float:left;
+}
+.entryheading{
+    font-size: 54px;
+    margin-top:88px;
+    margin-bottom: 20px;
+}
+.expenses{
+    border: 4px solid #FF0000;
+    border-right:transparent;
+    border-top:transparent;
+    border-bottom:transparent;
+    padding-left: 5px;
+    
+}
+.formlayout{
+    background: transparent;
+    border-top: transparent !important;
+    border-left: transparent !important;
+    border-right: transparent !important;
+    border-bottom: 2px solid #acabab !important;
+    margin-top: 15px;
+    width: 400px;
+    height: 50px;
+}
+
+.formbutton{
+    width: 150px;
+    background: transparent;
+    border: solid #FF0000;
+    margin-top: 20px;
+    height: 50px;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: #ff0000;
+    font-size: 24px;
+    border-radius: 24px;
+
+}
+.formbutton:hover{
+    background-color: #FF0000;
+    color:#ffffff;
+}
+
+.formheading{
+    text-align: center;
+    color: red;
+    padding-top: 30px;
+    font-weight: bold;
+}
+.filter{
+    width: 255px !important;
+    height: 70px;
+    margin-top: 48px;
+    border: 2px solid #ff0000;
+    font-size: 38px;
+    text-align: center;
+    color: #ff0000;
+    border-radius: 30px;
+}
+.formlabel{
+    font-size: 22px;
+    color: #FF0000;
+    margin-bottom: 27px;
+    font-weight: bold;
+}
+
+.headerimage{
+    width: 69px;
+    height: 69;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+
+.income{
+    border: 4px solid #38D808;
+    border-right:transparent;
+    border-top:transparent;
+    border-bottom:transparent;
+    padding-left: 5px;
+}
+.incometext{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+.incomefee{
+    font-size: 45px;
+    color: #FF0000;
+}
+
+.largeradio{
+    width: 18px;
+    height: 18px;
+}
+.left{
+    float: left !important;
+}
+/* .month{
+    font-size: 28px;
+    margin-top:22px;
+    color: red;
+    margin-bottom: 47.5px !important;
+} */
+.date-range-div{
+    margin: 20px 0;
+    background-color: #FFF2F2;
+    color:#ff0000;
+    padding: 30px;
+}
+.navigation{
+    font-size: 24px !important;
+    margin-left: 40px;
+}
+
+.notes{
+    background: transparent;
+    border-top: transparent !important;
+    border-left: transparent !important;
+    border-right: transparent !important;
+    border-bottom: 2px solid #acabab !important;
+    margin-top: 15px;
+    width: 500px;
+    height: 50px;
+}
+.notelabel{
+    margin-top: 60px;
+    color: #FF0000;
+    font-size: 22px;
+    font-weight: bold;
+}
+.optional{
+    font-size:12px;
+}
+.payrollicon{
+    float: right;
+}
+.profit{
+    font-size: 28px;
+}
+.payrollsubmit{
+    clear:both;
+    
+}
+.payrollbutton{
+    width: 500px;
+    height:60px;
+    background-color: #FF0000;
+    border:transparent;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    margin-top: 62.5px;
+    margin-bottom: 20px;
+}
+.payrollgap{
+    margin-bottom: 90px;
+}
+.red{
+    color:red;
+    font-size: 15px;
+}
+
+
+
+.right{
+    float: right !important;
+}
+
+.radios{
+    font-size:28px;
+    padding-left: 3px;
+}
+
+.reportentry{
+    color: red;
+    font-size: 72px;
+
+}
+.signout:focus{
+    outline: 0;
+}
+.signout{
+    /* width: 151px;
+    height: 52px; */
+    padding: 5px;
+    border: 2px solid red;
+    background: transparent;
+    font-size:18px;
+    color: #ff0000;
+    border-radius: 24px;
+    margin: 10px;
+ }
+ .signout:hover{
+     background-color: #FF0000;
+     color:#ffffff;
+ }
+ 
+ 
+ 
+ 
+ .size{
+     font-size: 20px;
+ }
+.topnav a:active{
+    text-decoration-line: underline;
+}
+.topnav a:focus{
+    
+    text-decoration-line: underline;
+}
+
+
+
+.tableset{
+    margin-top: 30px;
+    border: transparent;
+}
+
+.form-inline {
+    display: block;
+    font-size: 16px;
+}
+
+.btn-default {
+    border-color: #ccc;
+    font-size: 16px;
+}
+
+.transparentbutton{
+    background: transparent;
+    border: transparent;
+    width: 200px;
+    height: 60px;
+    color:#FF0000;
+    margin-top: 66px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
+.tagicon{
+    margin-top: 5px;
+}
+.settingsbody{
+    margin-top: 180px;   
+}
+.countrydiv{
+    height: 100%;
+    padding: 10px;
+    text-align: center;
+    border: 4px solid #FF0000;
+    border-radius: 10px;
+    float: left;
+    width: 300px;
+    margin-left: 20px;
+}
+.countryimage{
+    width: 30%;
+    height: 10%;
+}
+.countrytext{
+    font-size: 2em;
+    margin-top: 10px;
+}
+.countrytable{
+    margin-top: 120px !important;
+}
+.registeroption{
+    
+    border: transparent;
+    width: 500px;
+    height: 45px;
+}
+.regsub{
+    width: 500px;
+    height: 60px;
+    background: transparent;
+    border-radius: 24px;
+    border: 4px solid #ff0000;
+    font-size: 32px;
+}
+.registertab{
+    /* font-size: 32px;
+    margin-top: 100px; */
+    margin: 20px 0;
+    /* font-weight: bold; */
+    color: #ff0000;
+}
+.shift{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.settingslabel{
+    /* font-size: 32px; */
+    /* font-weight: bold; */
+    color: #ff0000;
+    margin: 20px 0;
+    
+}
